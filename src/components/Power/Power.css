@@ -1,0 +1,14 @@
+#Power {
+  border: 1px solid #fff;
+  position: absolute;
+  height: 55px;
+  width: 110px;
+  top: 140px;
+  left: 490px;
+  /* z-index: 100; */
+
+}
+.pwr {
+  color: #fff;
+  text-align: right;
+}
