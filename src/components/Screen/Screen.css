@@ -1,8 +1,10 @@
-@font-face {
-  font-family: 'Digi Reg';
-  src: url('./fonts/DS-DIGI.TTF');
-}
-@font-face {
-  font-family: 'Digi Bold';
-  src: url('./fonts/DS-DIGIB.TTF');
+#Screen {
+border: 1px solid #fff;
+  border-radius: 3px;
+  position: absolute;
+  height: 45px;
+  width: 100px;
+  top: 72px;
+  left: 495px;
+  /* z-index: 100; */
 }

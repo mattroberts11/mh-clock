@@ -1,16 +1,11 @@
-#Power {
+#Slider {
   border: 1px solid #fff;
   border-radius: 3px;
   position: absolute;
   height: 45px;
   width: 100px;
-  top: 145px;
+  top: 72px;
   left: 495px;
   /* z-index: 100; */
 
-}
-.pwr {
-  color: #fff;
-  text-align: right;
-  font-family: 'Open Sans', sans-serif;
 }
